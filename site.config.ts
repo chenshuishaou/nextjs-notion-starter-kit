@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'shaouspace',
-  domain: 'https://tungsten-mushroom-c38.notion.site/Biubiu-s-HOME-a31964c787494f0784149b020b2ef588',
+  domain: 'https://tungsten-mushroom-c38.notion.site/ShaOu-s-Space-a31964c787494f0784149b020b2ef588',
   author: 'Shaou',
 
   // open graph metadata (optional)
